@@ -3,8 +3,5 @@ liblipgloss.dylib
 test_lipgloss_wrapper
 memory_test
 
-# Ignore Go build artifacts
-go.sum
-
 .vscode
 .liblipgloss.h
